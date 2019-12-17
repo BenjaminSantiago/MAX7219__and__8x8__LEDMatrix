@@ -7,4 +7,4 @@ https://tinkersphere.com/led-matrix-panels/626-serial-led-matrix-module-arduino-
 And subsequently came across this How To Mechatronics Tutorial:
 https://howtomechatronics.com/tutorials/arduino/8x8-led-matrix-max7219-tutorial-scrolling-text-android-control-via-bluetooth/
 
-Which linked to Riyas.org's library. I just slightly modified this so that it can be a library that
+Which linked to Riyas.org's library. I just slightly modified this so that it can be a library that is easily uploadable via the online version arduino's IDE (create.arduino.cc)
